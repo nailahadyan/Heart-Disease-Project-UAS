@@ -1,5 +1,5 @@
 # 📘 Klasifikasi Penyakit Jantung Menggunakan Perbandingan Machine Learning dan Deep Learning
-#👤 Informasi
+# 👤 Informasi
 # Nama: Nailah Adyan Nurahmah
 # Repo: https://github.com/nailahadyan/Heart-Disease-Project-UAS
 # Video: [...]
