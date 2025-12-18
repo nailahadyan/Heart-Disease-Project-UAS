@@ -7,7 +7,6 @@
 * **Nama:** Nailah Adyan Nurahmah
 * **Repo:** https://github.com/nailahadyan/Heart-Disease-Project-UAS
 * **Video:** [...]
-
 ---
 
 # 1. 🎯 Ringkasan Proyek
