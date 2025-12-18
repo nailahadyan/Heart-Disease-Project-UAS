@@ -1,13 +1,11 @@
----
+📘 Prediksi Penyakit Jantung Menggunakan Model Klasifikasi Machine Learning dan Deep Learning
+👤 Informasi
+Nama: Erlina Putri Rahmadhani
 
-# 📘 Klasifikasi Penyakit Jantung Menggunakan Perbandingan Machine Learning dan Deep Learning
+Repo: https://github.com/erlinaputrirahmadhani05/UAS_HEART_DISEASE
 
-## 👤 Informasi
+Video: [...]
 
-* **Nama:** Nailah Adyan Nurahmah
-* **Repo:** https://github.com/nailahadyan/Heart-Disease-Project-UAS
-* **Video:** [...]
----
 
 # 1. 🎯 Ringkasan Proyek
 
