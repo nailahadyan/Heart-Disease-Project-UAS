@@ -1,8 +1,6 @@
-Tentu, Erlina. Berikut adalah penyesuaian **README.md** yang telah diselaraskan sepenuhnya dengan isi laporan proyek penyakit jantung Anda, terutama pada bagian **Problem Statement** dan **Goals** agar terlihat lebih profesional:
-
 ---
 
-# 📘 Prediksi Penyakit Jantung Menggunakan Model Klasifikasi Machine Learning dan Deep Learning
+# 📘 Klasifikasi Penyakit Jantung Menggunakan Perbandingan Machine Learning dan Deep Learning
 
 ## 👤 Informasi
 
