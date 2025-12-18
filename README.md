@@ -138,4 +138,10 @@ project/
 # 9. Reproducibility
 
 * **Python version:** 3.10 / 3.11
-* **Main Libraries:** Pandas, Numpy, Scikit-learn, Tensorflow/Keras, Matplotlib, Seaborn.
+* **Main Libraries:** pandas>=2.0.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+tensorflow>=2.12.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pickle5>=0.0.11n.
