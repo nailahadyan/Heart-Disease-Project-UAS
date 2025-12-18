@@ -1,9 +1,9 @@
 # 📘 Klasifikasi Penyakit Jantung Menggunakan Perbandingan Machine Learning dan Deep Learning
-👤 Informasi
-Nama: Nailah Adyan Nurahmah
-Repo: https://github.com/nailahadyan/Heart-Disease-Project-UAS
-Video: [...]
-
+#👤 Informasi
+# Nama: Nailah Adyan Nurahmah
+# Repo: https://github.com/nailahadyan/Heart-Disease-Project-UAS
+# Video: [...]
+---
 # 1. 🎯 Ringkasan Proyek
 
 Penyakit jantung merupakan penyebab utama kematian secara global yang memerlukan deteksi dini melalui parameter klinis yang tepat. Proyek ini bertujuan untuk membangun sistem prediksi otomatis menggunakan dataset **UCI Heart Disease** untuk mengidentifikasi risiko pasien secara akurat. Tantangan utama dalam pemodelan ini adalah menangkap hubungan non-linear antar fitur medis yang kompleks, seperti korelasi antara detak jantung maksimal dan tipe nyeri dada. Untuk mengatasi hal tersebut, proyek ini membandingkan tiga algoritma: **Logistic Regression** (Baseline), **Random Forest** (Advanced), dan **Multilayer Perceptron** (Deep Learning).
